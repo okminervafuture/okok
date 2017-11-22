@@ -1,0 +1,20 @@
+﻿<Page x:Class="WiseScopeDemo.New.Pages.PageWiseScopeMain"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:WiseScopeDemo.New.Pages"
+      mc:Ignorable="d" 
+      d:DesignHeight="500" d:DesignWidth="500"
+      Title="PageWiseScopeMain" Background="White">
+
+
+    <Grid Margin="0,0,0,192">
+        
+        <Image Source="MALS_img.jpg"  VerticalAlignment="Center" />
+        
+
+    </Grid>
+
+
+</Page>
